@@ -1,0 +1,1 @@
+INSERT INTO boas_praticas.pessoa (data_nascimento, nome, sobrenome, apelido, cpf) VALUES('2012-01-01', 'Gustavo', 'Ferreira', 'Gu', '02345876399');
